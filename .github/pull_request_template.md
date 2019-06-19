@@ -1,12 +1,12 @@
-Title: Release tracker
+﻿Title: Adding pull request for step 6
 
 Body:
-TL;DR: This branch includes planned version updates for our initial game launch.
+TL;DR: Made a real mess of the branches and accidentally created a second one.
 
-Planned 🚢 date: TBD
+Planned 🚢 date: 6/20/19
 
 Features:
-- [ ] 
+- TBD
 
 Bug fixes:
-- 
+- TBD 
